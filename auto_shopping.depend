@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605198461 source:e:\block_project\auto_shopping\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
